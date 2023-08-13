@@ -27,7 +27,7 @@ pip install pandas nltk
 ```bash
 git clone https://github.com/adil200/Sentiment-Analysis.git 
 ```
-2.  Download the dataset (`Airline_Reviews.csv`) and place it in the root directory of the project.
+2.  Download the dataset (`Airline_Reviews.csv`) and place it in the project's root directory.
     
 3.  Launch Jupyter Notebook and open the `sentiment-analysis-on-airline-reviews.ipynb` notebook.
     
